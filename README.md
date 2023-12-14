@@ -47,6 +47,9 @@ Embarked on the expedition to master Python and Django. This repository serves a
 	Map and Filter Functions
 	Nested Statements and Scope
 
+### Day - 04 -> Milestone Project - Tic Tac Toe
+    Tic Tac Toe on Command Line
+
 ## Feedback
 
 If you have any feedback, please reach out to us at skmahajan4998@gmail.com
