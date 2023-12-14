@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Hi, I'm Saurabh! 👋](#hi-im-saurabh-)
+- [Python & Django Mastering Quest](#python--django-mastering-quest)
+    - [Day - 01 -> Hello World Of Python](#day---01---hello-world-of-python)
+    - [Day - 02 -> Python Object, Data Structures, Comparison Operators and Python Statements](#day---02---python-object-data-structures-comparison-operators-and-python-statements)
+    - [Day - 03 -> Methods and Functions](#day---03---methods-and-functions)
+    - [Day - 04 -> Milestone Project - Tic Tac Toe](#day---04---milestone-project---tic-tac-toe)
+  - [Feedback](#feedback)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Hi, I'm Saurabh! 👋
 
@@ -52,5 +66,5 @@ Embarked on the expedition to master Python and Django. This repository serves a
 
 ## Feedback
 
-If you have any feedback, please reach out to us at skmahajan4998@gmail.com
+If you have any feedback, please reach out at skmahajan4998@gmail.com
 
