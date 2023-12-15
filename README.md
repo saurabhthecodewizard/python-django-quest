@@ -8,7 +8,8 @@
     - [Day - 02 -> Python Object, Data Structures, Comparison Operators and Python Statements](#day---02---python-object-data-structures-comparison-operators-and-python-statements)
     - [Day - 03 -> Methods and Functions](#day---03---methods-and-functions)
     - [Day - 04 -> Milestone Project - Tic Tac Toe](#day---04---milestone-project---tic-tac-toe)
-  - [Feedback](#feedback)
+    - [Day - 05 -> OOP, Module, Packages, Exception Handling, Pylint and Unit Testing](#day---05---oop-module-packages-exception-handling-pylint-and-unit-testing)
+- [Feedback](#feedback)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -64,7 +65,19 @@ Embarked on the expedition to master Python and Django. This repository serves a
 ### Day - 04 -> Milestone Project - Tic Tac Toe
     Tic Tac Toe on Command Line
 
-## Feedback
+### Day - 05 -> OOP, Module, Packages, Exception Handling, Pylint & Unit Testing
+    OOP - Attributes & class keyword
+    Class Object Attributes & Methods
+    Inheritance & Polymorphism
+    Special(Magic/Dunder) Methods
+    Pip and PyPi
+    Modules & Packages
+    __name__ & "__main__"
+    Error & Exception Handling
+    Pylint Overview
+    Unittest Library
+
+# Feedback
 
 If you have any feedback, please reach out at skmahajan4998@gmail.com
 
