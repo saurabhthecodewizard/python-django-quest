@@ -8,7 +8,8 @@
     - [Day - 02 -> Python Object, Data Structures, Comparison Operators and Python Statements](#day---02---python-object-data-structures-comparison-operators-and-python-statements)
     - [Day - 03 -> Methods and Functions](#day---03---methods-and-functions)
     - [Day - 04 -> Milestone Project - Tic Tac Toe](#day---04---milestone-project---tic-tac-toe)
-    - [Day - 05 -> OOP, Module, Packages, Exception Handling, Pylint and Unit Testing](#day---05---oop-module-packages-exception-handling-pylint-and-unit-testing)
+    - [Day - 05 -> OOP, Module, Packages, Exception Handling, Pylint & Unit Testing](#day---05---oop-module-packages-exception-handling-pylint--unit-testing)
+    - [Day - 06 -> War, Blackjack, Decorators & Generators](#day---06---war-blackjack-decorators--generators)
 - [Feedback](#feedback)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -76,6 +77,14 @@ Embarked on the expedition to master Python and Django. This repository serves a
     Error & Exception Handling
     Pylint Overview
     Unittest Library
+
+### Day - 06 -> War, Blackjack, Decorators & Generators
+    War - A Game of Cards
+    BlackJack
+    Nested Functions
+    Decorators
+    Generators
+    Iter
 
 # Feedback
 
