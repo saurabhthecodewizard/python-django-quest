@@ -86,6 +86,17 @@ Embarked on the expedition to master Python and Django. This repository serves a
     Generators
     Iter
 
+### Day - 07 -> Advance Modules, Web Scraping, Files & Emails
+    Advance Python Modules - Collections, OS, Shutil, Datetime, Math & Random
+    Python Debugger
+    Zipping and Unzipping Files
+    Web Scraping
+    Working with Images, Pdfs & Csvs
+    Send & Receive Emails
+    Advance objects - Numbers, Strings, Sets, Dictionaries and Lists
+    GUI
+    Libraries - Requests, Beautiful Soup, Pillow, Csv, PyPDF2, Smtiplib, Imaplib, Getpass & Ipywidgets
+
 # Feedback
 
 If you have any feedback, please reach out at skmahajan4998@gmail.com
